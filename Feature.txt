@@ -1,0 +1,12 @@
+Features : -
+- One Page Template
+- Creative and Modern Design
+- Dark and Light skins
+- Customizable with 5 color schemes
+-  Valid HTML5 & CSS3
+- FontAwesome Icons
+- Smooth Scroll
+- Responsive
+- Clean code
+- Cross Browser
+- Google Fonts used
